@@ -1,0 +1,175 @@
+
+
+/* Here is the section for large device media querries*/
+
+
+
+@media (max-width: 1400px)
+{
+ 
+    .items
+    {
+      margin-top: 120px;
+    }  
+    .itms
+    {
+      margin-left: 160px;
+      font-size: 14px;
+    }  
+}
+/* Here is the section for media queries of medium device*/
+
+
+@media (max-width: 990px)
+{
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    .staight-line
+    {
+        display: none;
+    }
+    .topnav a
+    {
+        margin-left: 5px;
+    }
+    .call-link
+    {
+        font-size: 10px;
+    }
+    .logo-section
+    {
+        margin-left: 0;
+    }
+    .search-div
+    {
+        margin-left: 5px !important;  
+    }
+    .log-sec img
+    {
+      width: 35px;
+      margin-top: 10px;
+    }
+    .items
+    {
+       margin-top: 110px;
+       border: none;
+    }   
+    .itms
+     {
+     margin-left: 100px;
+     font-size: 12px;
+     }  
+     .first-sec img {
+        height: 20%;
+    }
+    .unorderd
+{
+    padding: 5px !important;
+}
+.unorderd p
+{
+    font-size: 12px;
+}
+.first-sec
+{
+    padding: 5px !important;
+}
+.first-sec p
+{
+    padding-top: 15px !important;
+}
+.third-sec p
+{
+    margin: 0 !important;
+}
+.follow-us i
+{
+    font-size: 15px;
+}
+    
+   
+}
+
+
+
+
+/* Here is the section for small device  media querries*/
+
+
+
+
+@media (max-width: 576px)
+{
+    *
+    {
+        margin: 0;
+        padding: 0;
+    }
+    .nav-lside
+    {
+        display: flex;
+        flex-direction: column;
+    }
+    .staight-line
+    {
+        display: none;
+    }
+    .call-link
+    {
+        font-size: 10px;
+        padding-top: 10px;
+    }
+    .logo-section
+    {
+        margin-left: 0;
+    }
+    .search-div
+    {
+        margin-left: 5px !important;  
+    }
+    .log-sec img
+    {
+      width: 20%;
+      margin-top: 10px;
+    }
+    .items
+{
+  margin-top: 110px;
+  border: none;
+}  
+.itms
+{
+  margin-left: 0px;
+}  
+   
+.log-sec a
+{
+  width: 50px;
+
+}  
+.log-sec img
+{
+    width: 30px;
+}
+ 
+.first-sec img {
+    height: 20%;
+}
+.unorderd
+{
+    padding: 0;
+}
+.first-sec
+{
+    padding: 0;
+}
+.third-sec p
+{
+    margin: 0;
+    font-size: 8px;
+}
+}
+
+

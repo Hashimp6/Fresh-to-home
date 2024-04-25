@@ -1,0 +1,235 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+* a{
+  text-decoration: none;
+}
+
+.topnav {
+  background-color: rgb(32, 130, 17);
+   z-index: 1001;
+  font-size: 13px;
+}
+.call-link
+{
+  margin-left: 100px;
+}
+.nav-rside a
+{
+  color: white;
+}
+.navbar-toggler-icon
+{
+  width: 20px;
+}
+.dropdown-item
+{
+  color: black !important;
+}
+.second-nav
+{
+  background-color: white;
+  width: 100%;
+  z-index: 1000;
+  padding-bottom: 30px;
+}
+header .container
+{
+  margin-top: 14px;
+ 
+}
+.logo
+{
+  width: 80px;
+}
+.logo-section 
+{
+  margin-left: 100px;
+}
+.search-div
+{
+  border: solid 1px rgb(209, 205, 205);
+  height: 40px;
+  width: 40%;
+  border-radius: 4px;
+}
+.form-control::placeholder
+    {
+      font-size: 13px;
+      color: rgb(141, 142, 143);
+    }
+.search-div input
+   {
+    border: none;
+
+   }
+.search-icon{
+    color: green;
+    font-size: 18px;
+  
+   }
+.log-sec
+    {
+      position: absolute;
+      right: 1px;
+    }
+.log-sec img
+    {
+      width: 45px;
+    }
+.items
+{
+  margin-top: 120px;
+  border-top: solid 1px rgb(215, 213, 215);
+  border-bottom: solid 1px rgb(215, 213, 215);
+}  
+.itms
+{
+  margin-left: 210px;
+ 
+}  
+.fish img{
+  width: 30px;
+}
+
+.catagory a
+{
+  text-decoration: none;
+  color: #7755A2;
+  font-size: 14px;
+  font-weight: 600;
+  margin-left: 120px;
+  
+}
+.caro
+{
+ height: 100%;
+  width: 100%;
+  overflow: hidden;
+  border-radius: 12px;
+}
+.carousel 
+{
+  width: 80%;
+
+}
+.xtrs-pic
+{
+  width: 2.5rem;
+  height: 2.5rem;
+}
+.xtra-service
+{
+  font-size: small;
+}
+.flash-portion
+{
+  background-color: rgb(228, 249, 203);
+  padding-bottom: 40px;
+  
+}
+.flash-head
+{
+  display: flex;
+    justify-content: center;
+}
+.card-body
+{
+  font-size: 12px;
+  padding: 5px;;
+}
+.prize-amt
+{
+  color: rgb(9, 159, 9);
+  font-size: medium;
+  margin: 0;
+}
+.card
+{
+  margin-top: 35px;
+}
+del {
+  text-decoration: line-through;
+  color: red; /* Change the color to red */
+}
+.shpbyctgry-head
+{
+  justify-content: center;
+  padding-top: 30px;
+}
+.cata
+{
+  height: 150px;
+}
+.deal-portion
+{
+  background-color: rgb(248, 234, 205);
+  padding-bottom: 30px;
+  
+}
+.deal-head
+{
+  display: flex;
+    justify-content: center;
+}
+.certificate img
+{
+  width: 100%;
+ 
+} 
+.app-link img{
+  width: 70%;
+}
+.footer-bar
+{
+  display: grid;
+  grid-template-columns: 1fr 1.8fr 1fr;
+}
+.first-sec img
+{
+  height: 40%;
+}
+.playtore
+{
+  height: 50px;
+}
+.appstore
+{
+  height: 30px;
+}
+
+.first-sec p
+{
+  font-size: 13px ;
+}
+.unorderd p
+{
+   color: rgb(122, 122, 122);
+   font-size: 15px;
+   line-height: 32px;
+}
+.footer-bar
+{
+  border: solid 1px rgb(222, 220, 220);
+}
+.phn-site
+{
+  font-size: 14px;
+  color: rgb(139, 139, 139);
+}
+.follow-us i
+{
+  font-size: 25px;
+  color: rgb(156, 98, 211);
+  padding-left: 25px;
+}
+.log{
+  background: rgb(130, 229, 64);
+  margin-top: 10px;
+  border-radius: 5px;
+  border: solid 1px rgb(31, 31, 31);
+  height: 25px;
+  color: black;
+  font-weight: 500;
+}
